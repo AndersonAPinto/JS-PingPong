@@ -9,4 +9,4 @@ Jogo abordou POO, e conhecimento de nível avançado em JS
 
 
 ## Imagem
-![ImagemdoGame](./images/Devsamurai.png)
+![ImagemdoGame](./images//Devsamurai.png)
